@@ -1,2 +1,2 @@
-# Am
-My personal site
+# My personal site
+Site about my skills
